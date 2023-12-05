@@ -17,8 +17,6 @@ class GameLogic:
         self._place_random()
 
     def _place_random(self):
-        if random(self._board)==[0]:
-            self._board=2 or 4
         # complete this function as per question text
         # randomly places a 2 or 4 in an empty block
         pass 
